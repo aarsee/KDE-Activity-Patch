@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/guessnumber">
+		<file>AnswerArea.qml</file>
+		<file>Guessnumber.qml</file>
+		<file>Helico.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>guessnumber.svg</file>
+		<file>guessnumber.js</file>
+		<file>resource/cave.svg</file>
+		<file>resource/tuxhelico.svg</file>
+	</qresource>
+</RCC>

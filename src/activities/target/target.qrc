@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/target">
+		<file>Target.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Arrow.qml</file>
+		<file>TargetItem.qml</file>
+		<file>target.svg</file>
+		<file>target.js</file>
+		<file>resource/target_background.svg</file>
+		<file>resource/cross.svg</file>
+	</qresource>
+</RCC>

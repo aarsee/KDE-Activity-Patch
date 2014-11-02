@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/canal_lock">
+		<file>CanalLock.qml</file>
+		<file>Lock.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>canal_lock.svg</file>
+		<file>resource/sky.svg</file>
+		<file>resource/boat1.svg</file>
+		<file>resource/sun.svg</file>
+		<file>resource/canal_right.svg</file>
+		<file>resource/boat2.svg</file>
+		<file>resource/light_green.svg</file>
+		<file>resource/cloud1.svg</file>
+		<file>resource/ground.svg</file>
+		<file>resource/light_red.svg</file>
+		<file>resource/cloud2.svg</file>
+		<file>resource/canal_left.svg</file>
+		<file>resource/canal_lock.svg</file>
+	</qresource>
+</RCC>

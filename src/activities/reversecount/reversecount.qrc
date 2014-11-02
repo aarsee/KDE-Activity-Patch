@@ -1,0 +1,34 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/reversecount">
+		<file>ChooseDiceBar.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>Reversecount.qml</file>
+		<file>Tux.qml</file>
+		<file>reversecount.svg</file>
+		<file>reversecount.js</file>
+		<file>resource/blue-fish.svgz</file>
+		<file>resource/flower4.svgz</file>
+		<file>resource/flower3.svgz</file>
+		<file>resource/flower6.svgz</file>
+		<file>resource/elephant_mer.svgz</file>
+		<file>resource/Fish02.svgz</file>
+		<file>resource/flower2.svgz</file>
+		<file>resource/flower1.svgz</file>
+		<file>resource/flower0.svgz</file>
+		<file>resource/molumen_Codfish.svgz</file>
+		<file>resource/mystica_Aquarium_fish_-_Amphiprion_percula.svgz</file>
+		<file>resource/flower5.svgz</file>
+		<file>resource/pepinux_Pez_dorado.svgz</file>
+		<file>resource/drunken_duck_cartoon_globefish_kugelfisch.svgz</file>
+		<file>resource/iceblock.svgz</file>
+		<file>resource/tux_top_south.svgz</file>
+		<file>resource/ourspolaire.svgz</file>
+		<file>resource/epaulard.svgz</file>
+		<file>resource/The_Whale-Fish.svgz</file>
+		<file>resource/baleine.svgz</file>
+		<file>resource/phoque.svgz</file>
+		<file>resource/morse.svgz</file>
+		<file>resource/Benzfish.svgz</file>
+		<file>resource/narval.svgz</file>
+	</qresource>
+</RCC>

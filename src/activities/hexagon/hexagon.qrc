@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/hexagon">
+		<file>HexagonItem.qml</file>
+		<file>Hexagon.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>hexagon.svg</file>
+		<file>hexagon.js</file>
+		<file>resource/strawberry.svgz</file>
+		<file>resource/hexagon_border.svgz</file>
+		<file>resource/hexagon.svgz</file>
+	</qresource>
+</RCC>

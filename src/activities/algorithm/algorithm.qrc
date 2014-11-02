@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/algorithm">
+		<file>Algorithm.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>algorithm.svg</file>
+		<file>algorithm.js</file>
+		<file>resource/orange.svgz</file>
+		<file>resource/plum.svgz</file>
+		<file>resource/pineapple.svgz</file>
+		<file>resource/question_mark.svgz</file>
+		<file>resource/banana.svgz</file>
+		<file>resource/desert_scene.svgz</file>
+		<file>resource/lemon.svgz</file>
+		<file>resource/apple.svgz</file>
+		<file>resource/cherries.svgz</file>
+		<file>resource/pear.svgz</file>
+	</qresource>
+</RCC>

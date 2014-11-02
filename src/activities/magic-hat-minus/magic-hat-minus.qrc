@@ -1,0 +1,15 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/magic-hat-minus">
+		<file>Star.qml</file>
+		<file>MagicHat.qml</file>
+		<file>StarsBar.qml</file>
+		<file>Hat.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>magic-hat-minus.svg</file>
+		<file>magic-hat.js</file>
+		<file>resource/hat-point.svgz</file>
+		<file>resource/hat.svgz</file>
+		<file>resource/star-clear.svgz</file>
+		<file>resource/background.svgz</file>
+	</qresource>
+</RCC>

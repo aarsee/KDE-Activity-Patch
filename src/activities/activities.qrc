@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities">
+		<file>activities.txt</file>
+	</qresource>
+</RCC>

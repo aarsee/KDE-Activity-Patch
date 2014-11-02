@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/gnumch-inequality">
+		<file>GnumchInequality.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>gnumch-inequality.svg</file>
+	</qresource>
+</RCC>

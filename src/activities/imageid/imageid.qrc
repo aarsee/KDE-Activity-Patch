@@ -1,0 +1,24 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/imageid">
+		<file>Imageid.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>imageid.svg</file>
+		<file>imageid.js</file>
+		<file>resource/bed.png</file>
+		<file>resource/bottle.png</file>
+		<file>resource/fish.png</file>
+		<file>resource/car.png</file>
+		<file>resource/imageid-bg.svgz</file>
+		<file>resource/cake.png</file>
+		<file>resource/school_bag.png</file>
+		<file>resource/apple.png</file>
+		<file>resource/board1.json</file>
+		<file>resource/banana.png</file>
+		<file>resource/imageid_frame.svgz</file>
+		<file>resource/ball.png</file>
+		<file>resource/house.png</file>
+		<file>resource/dog.png</file>
+		<file>resource/plane.png</file>
+		<file>resource/board2.json</file>
+	</qresource>
+</RCC>

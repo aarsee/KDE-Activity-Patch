@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/gnumch-factors">
+		<file>GnumchFactors.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>gnumch-factors.svg</file>
+	</qresource>
+</RCC>
