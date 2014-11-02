@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="/gcompris/src/activities/aarsee">
+		<file>Aarsee.qml</file>
+		<file>ActivityInfo.qml</file>
+		<file>aarsee.svg</file>
+		<file>aarsee.js</file>
+		<file>resource/hat.svgz</file>
+	</qresource>
+</RCC>
